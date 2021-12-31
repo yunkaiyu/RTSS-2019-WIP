@@ -1,5 +1,5 @@
 # RTSS-2019-WIP
-A brief presentation for RTSS 2019 (first HK, CN, then York, finally cancelled).
+A WIP paper [1] for RTSS 2019 (first HK, CN, then York, finally cancelled).
 
 Unfortunately, the original codes (resampling and split the raw ECG to 256-dot segments, implementing a pytorch ResNet) were lost in a winter. The server was dead since the author was unaware that the CPU FAN failed to cleave to the CPU. 
 
@@ -15,7 +15,7 @@ This is an updated version of work-in-progress code and it would be part of his 
 
 4. Click and run Main.ipynb to verify algorithms.
  
-[1]
+[1] This paper
 ```
 @INPROCEEDINGS{2019Feasibility,  author={Yu, Yunkai and Yang, Zhihong and Li, Peiyao and Yang, Zhicheng and You, Yuyang},  booktitle={2019 IEEE Real-Time Systems Symposium (RTSS)},   title={Work-in-Progress: On the Feasibility of Lightweight Scheme of Real-Time Atrial Fibrillation Detection Using Deep Learning},   year={2019},  volume={},  number={},  pages={552-555},  doi={10.1109/RTSS46320.2019.00062}}
 ```
